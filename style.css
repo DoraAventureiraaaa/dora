@@ -1,12 +1,12 @@
 body{
-    background:rgb(232, 241, 95);
-    color:rgb(243, 87, 183);
+    background:rgb(189, 2, 148);
+    color:rgb(10, 1, 6);
     margin: 0px;
     margin-bottom: 100px;
 }
 
 .chamada{
-    background-color: rgb(10, 10, 10);
+    background-color: rgb(129, 26, 155);
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
